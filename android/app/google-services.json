@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999920674160",
+    "project_id": "my-touring-4e21e",
+    "storage_bucket": "my-touring-4e21e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999920674160:android:dc9b0afda399549d0edbb5",
+        "android_client_info": {
+          "package_name": "com.example.my_touring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999920674160-0dig79m0jhm0ui9eci823m0p47firham.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCPvrLIRvzFRZ9hIdMfB16ojhv1lWqwwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999920674160-0dig79m0jhm0ui9eci823m0p47firham.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
